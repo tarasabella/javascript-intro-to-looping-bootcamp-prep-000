@@ -32,4 +32,3 @@ function doWhileLoop(array) {
 	} while (array.length > 0 && i < 5);
 
 	return array;
-
